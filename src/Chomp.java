@@ -178,11 +178,11 @@ class MyFrame extends JFrame implements ActionListener{
 			loop=false;
 			label.setText("Computer's turn" );
 			if(x==0 && y==0) {
-				label.setText("Player 1 loses");
+				label.setText("Computer Wins");
 				loop=true;
 			}
 			if((btn[0][1].isEnabled()==false && btn[1][0].isEnabled()==false)&&!(x==0 && y==0)){
-				label.setText("Computer Loses!" );
+				label.setText("Player 1 Wins" );
 				loop=true;
 			}
 			
