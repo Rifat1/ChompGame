@@ -30,7 +30,7 @@ all squares below, right and in between below and right squares will be removed
 2) Allow Computer to select its piece of chocolate chomp
 all squares below, right and in between below and right squares will be removed
 
-3)Whoever is left with the soap pieces loses.</p>
+3) Whoever is left with the soap pieces loses.</p>
 
 
 
